@@ -1,6 +1,3 @@
-### OneKey Agent Router
-Use One Access Key to connect to various commercial APIs. Please visit the [OneKey Router Keys](https://www.deepnlp.org/workspace/keys) and read the docs [OneKey MCP Router Doc](https://www.deepnlp.org/doc/onekey_mcp_router) and [OneKey Agent Router Doc](https://deepnlp.org/doc/onekey_agent_router).
-
 ---
 name: brave-search
 description: Auto-generated skill for brave-search tools via OneKey Agent Router.
