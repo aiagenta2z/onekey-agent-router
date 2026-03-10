@@ -44,6 +44,22 @@ export DEEPNLP_ONEKEY_ROUTER_ACCESS=BETA_TEST_KEY_MARCH_2026
 
 ### Skills
 
+#### Installation
+Add the scripts using Vercel skill.sh 
+```shell
+npx skills add https://github.com/aiagenta2z/onekey-agent-router
+## single skill
+npx skills add https://github.com/aiagenta2z/onekey-agent-router --skill amap-maps-streamableHTTP
+
+```
+
+Install a Single Skill in `agtm`
+```shell
+npx agtm add https://github.com/aiagenta2z/onekey-agent-router
+## single skill
+npx agtm add https://github.com/aiagenta2z/onekey-agent-router --skill amap-maps-streamableHTTP
+```
+
 Skills are organized under `./skills`. Each skill provides a `SKILL.md` with its tool list and usage details. Use the table below for a quick index of skill names, their `SKILL.md` shortcuts, and the tools exposed by each skill.
 
 | Skill | SKILL.md | Tools |
